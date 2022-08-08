@@ -12,6 +12,9 @@
     <el-form-item>
       <el-button type="primary" @click="onSubmit">Query</el-button>
     </el-form-item>
+    <el-form-item>
+      <el-button type="primary" @click="onSubmit">Query</el-button>
+    </el-form-item>
   </el-form>
 </template>
 
